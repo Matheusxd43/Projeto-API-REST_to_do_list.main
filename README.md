@@ -1,4 +1,4 @@
-# Todo List - API
+# (Todo List) - API_Rest
 
 API RESTful para gerenciamento de tarefas, construída com Java e Spring Boot. Este é o serviço de backend para a aplicação Todo List.
 
