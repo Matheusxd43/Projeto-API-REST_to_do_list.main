@@ -11,7 +11,7 @@ API RESTful para gerenciamento de tarefas, construída com Java e Spring Boot. E
 
 Este repositório contém o código-fonte do backend da aplicação de Lista de Tarefas. A API é responsável por todas as operações de CRUD (Create, Read, Update, Delete) e foi projetada para ser consumida por um frontend em Angular.
 
-* **Repositório do Frontend (Angular):** `[LINK PARA SEU REPOSITÓRIO FRONTEND]`
+* **Repositório do Frontend (Angular):** `[https://github.com/Matheusxd43/Projeto-API-REST_to_do_list.main]`
 
 ## Tecnologias Principais
 
@@ -32,7 +32,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 2.  **Acesse a pasta do projeto:**
     ```shell
-    cd nome-do-projeto
+    cd Projeto-API-REST_to_do_list.main
     ```
 
 3.  **Execute o projeto usando o Maven Wrapper:**
