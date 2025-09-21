@@ -27,7 +27,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o projeto:**
     ```shell
-    git clone [LINK DO SEU REPOSITÓRIO GIT]
+    git clone [https://github.com/Matheusxd43/Projeto-API-REST_to_do_list.main.git]
     ```
 
 2.  **Acesse a pasta do projeto:**
